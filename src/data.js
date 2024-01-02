@@ -148,56 +148,56 @@ export const faqs = [
     },
     {
         id: 4,
-        question: "Are telemedicine consultations available?",
-        answer: "Consecjhbasjas kjsabjas jkasba kjsbcjhbchjvc jhbscjsc  jhbscjsvc jhsbcjsvc jhycdc kjfvndbue f jewdbued jhbeuhcjsd c jsbcusvc "
+        question: "What are the operating hours of the clinic?",
+        answer: "The clinic is open during regular business hours from 9 A.M to 11 P.M everyday. Please note any variations, such as extended hours on certain days or closures for holidays."
     },
     {
         id: 5,
-        question: "How often should I exercise?",
-        answer: "Consecjhbasjas kjsabjas jkasba kjsbcjhbchjvc jhbscjsc  jhbscjsvc jhsbcjsvc jhycdc kjfvndbue f jewdbued jhbeuhcjsd c jsbcusvc "
+        question: "Do you accept insurance plans?",
+        answer: "We work with various insurance providers to ensure our services are accessible to a broad range of patients. Check our website or contact us for insurance details."
     },
     {
         id: 6,
-        question: "How often should I exercise?",
-        answer: "Consecjhbasjas kjsabjas jkasba kjsbcjhbchjvc jhbscjsc  jhbscjsvc jhsbcjsvc jhycdc kjfvndbue f jewdbued jhbeuhcjsd c jsbcusvc "
-    }
+        question: "What safety measures are in place during in-person visits?",
+        answer: "Your safety is our priority. We strictly adhere to hygiene protocols and social distancing measures to create a safe environment for in-person consultations."
+    },
 ]
 
 export const testimonials = [
     {
         id: 1,
-        name: "Iliyana Masoor",
-        quote: "Consecjhbasjas kjsabjas jkasba kjsbcjhbchjvc jhbscjsc  jhbscjsvc jhsbcjsvc jhycdc kjfvndbue f jewdbued jhbeuhcjsd c jsbcusvc ",
-        job: "Student",
-        avatar: require("./images/dpnew.jpg")
+        name: "Mansoor Alam",
+        quote: "Exceptional care and attention to detail. The medical professionals here genuinely care about the well-being of their patients. Highly recommended!",
+        job: "Patient",
+        avatar: require("./images/R (2).jpeg")
     },
     {
         id: 2,
-        name: "ShahRukh khan",
-        quote: "kjsabjas jkasba kjsabjas jkasba Consecjhbasjas kjsabjas jkasba kjsbcjhbchjvc jhbscjsc  jhbscjsvc jhsbcjsvc jhycdc kjfvndbue f jewdbued jhbeuhcjsd c jsbcusvc ",
-        job: "Student",
-        avatar: require("./images/pexels-edward-jenner-4033148.jpg")
+        name: "Supriya Chakraborty",
+        quote: "Efficient and prompt service. The online appointment system is a game-changer for busy individuals. Thank you for making healthcare accessible.",
+        job: "Patient",
+        avatar: require("./images/391ee12077ba9cabd10e476d8b8c022b.jpg")
     },
     {
         id: 3,
-        name: "Intekhab Alam",
-        quote: "kjsabjas jkasba kjsabjas jkasba Consecjhbasjas kjsabjas jkasba kjsbcjhbchjvc jhbscjsc  jhbscjsvc jhsbcjsvc jhycdc kjfvndbue f jewdbued jhbeuhcjsd c jsbcusvc ",
-        job: "Student",
-        avatar: require("./images/pexels-edward-jenner-4033148.jpg")
+        name: "Md Iftekhar Warsi",
+        quote: "I appreciate the transparency in communication. They take the time to explain procedures and answer all queries, creating a trusting patient-doctor relationship.",
+        job: "Patient",
+        avatar: require("./images/R (2).jpeg")
     },
     {
         id: 4,
-        name: "Amir khan",
-        quote: "kjsabjas jkasba kjsabjas jkasba Consecjhbasjas kjsabjas jkasba kjsbcjhbchjvc jhbscjsc  jhbscjsvc jhsbcjsvc jhycdc kjfvndbue f jewdbued jhbeuhcjsd c jsbcusvc ",
-        job: "Student",
-        avatar: require("./images/OIP.jpeg")
+        name: "Prakash Kumar",
+        quote: "I’ve found a healthcare partner for life. The holistic approach and community initiatives make this medical service stand out. Grateful for their commitment to well-being.",
+        job: "Patient",
+        avatar: require("./images/R (2).jpeg")
     },
     {
         id: 5,
-        name: "Salmam khan",
-        quote: "kjsabjas jkasba kjsabjas jkasba Consecjhbasjas kjsabjas jkasba kjsbcjhbchjvc jhbscjsc  jhbscjsvc jhsbcjsvc jhycdc kjfvndbue f jewdbued jhbeuhcjsd c jsbcusvc ",
-        job: "Student",
-        avatar: require("./images/OIP.jpeg")
+        name: "Zaynab Parveen",
+        quote: "A seamless experience from booking an appointment to follow-up care. The team here truly understands the value of time and health. Thank you for your professionalism.",
+        job: "Patient",
+        avatar: require("./images/391ee12077ba9cabd10e476d8b8c022b.jpg")
     },
 ]
 

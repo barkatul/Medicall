@@ -12,7 +12,7 @@ const MainHeader = () => {
           <p>
           Empowering Lives Through Comprehensive and Compassionate Medical Solutions
           </p>
-          <Link to="/plans" className='btn lg'> Book My Appointment</Link>
+          <Link to="/contact" className='btn lg'> Book My Appointment</Link>
         </div>
         <div className="main__header-right">
           <div className="main__header-circle"></div>

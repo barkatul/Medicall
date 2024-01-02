@@ -20,7 +20,7 @@ const Programs = () => {
                             <img className="programs__image" src={image} alt={icon} />
                             <h4>{title}</h4>
                             <small>{info}</small>
-                            <Link to={path} className="btn sm">Learn More <FaCaretRight/></Link>
+                            <Link to="/contact" className="btn sm">Learn More <FaCaretRight/></Link>
                         </Card>
                     )
                 })

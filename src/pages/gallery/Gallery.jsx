@@ -14,7 +14,7 @@ const Gallery = () => {
   return (
     <>
       <Header title="Our Gallery" image={HeaderImage}>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum, voluptatum.
+      Step into our gallery at Paradise Medicall to visually experience the essence of compassionate healthcare. Discover moments that reflect our commitment to your well-being.
       </Header>
       <section className="gallery">
         <div className="container gallery__container">

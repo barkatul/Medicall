@@ -1,14 +1,14 @@
 import Header from '../../components/Header'
 import Trainer from '../../components/Trainer'
 import { trainers } from '../../data'
-import HeaderImage from '../../images/pexels-pixabay-208512.jpg'
+import HeaderImage from '../../images/pexels-pixabay-40568.jpg'
 import './trainers.css'
 
 const Trainers = () => {
   return (
     <>
     <Header title="Our Doctors" image={HeaderImage}>
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci doloremque accusamus asperiores nisi odit impedit quam optio excepturi nam mollitia.
+    Discover a team of dedicated and experienced doctors at paradise medicall. Our skilled healthcare professionals are committed to providing personalized care, ensuring your well-being is in expert hands.
     </Header>
     <section className='trainers'>
       <div className='container trainers__container'>

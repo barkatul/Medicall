@@ -1,5 +1,5 @@
-import { Link } from "react-router-dom"
-import Image from '../images/6512251.png'
+import { Link } from "react-router-dom";
+import Image from '../images/6512251.png';
 
 const MainHeader = () => {
   return (

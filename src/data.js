@@ -149,7 +149,7 @@ export const faqs = [
     {
         id: 4,
         question: "What are the operating hours of the clinic?",
-        answer: "The clinic is open during regular business hours from 9 A.M to 11 P.M everyday. Please note any variations, such as extended hours on certain days or closures for holidays."
+        answer: "The clinic is open during regular business hours from 8 A.M to 11 P.M everyday. Please note any variations, such as extended hours on certain days or closures for holidays."
     },
     {
         id: 5,

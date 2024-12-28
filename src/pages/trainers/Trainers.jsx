@@ -13,8 +13,8 @@ const Trainers = () => {
     <section className='trainers'>
       <div className='container trainers__container'>
         {
-          trainers.map(({id, image, name, job, socials}) => {
-            return <Trainer key={id} image={image} name={name} job={job}/>
+          trainers.map(({id, image, name, job, des, socials}) => {
+            return <Trainer key={id} image={image} name={name} job={job} des={des}/>
           })
         }
       </div>

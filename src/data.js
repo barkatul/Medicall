@@ -97,7 +97,64 @@ export const programs = [
         info: "Revitalize your body's strength and flexibility with personalized physiotherapy services, guiding you towards a pain-free and active lifestyle.",
         path: "/programs/444"
     },
+    {
+        id: 10,
+        icon: <SiOpenaigym/>,
+        image: require('../src/images/pediatric-health-care-associates-altoona-about-us-we-take-care-of-you.png'),
+        title: "Child Specialist",
+        info: "Compassionate care for your little ones, ensuring their healthy growth and happiness.",
+        path: "/programs/444"
+    },
+    {
+        id: 11,
+        icon: <SiOpenaigym/>,
+        image: require('../src/images/pngtree-urology-png-image_8882045.png'),
+        title: "Urologist",
+        info: "Comprehensive care for urinary and reproductive health, tailored to your well-being.",
+        path: "/programs/444"
+    },
+    {
+        id: 12,
+        icon: <SiOpenaigym/>,
+        image: require('../src/images/dermatology.png'),
+        title: "DERMATOLOGY",
+        info: "Expert care for healthy, glowing skin and effective solutions for all your dermatological needs.",
+        path: "/programs/444"
+    },
+    {
+        id: 13,
+        icon: <SiOpenaigym/>,
+        image: require('../src/images/Gastroenterology-illustration.png'),
+        title: "GASTROENTEROLOGIST",
+        info: "Specialized care for your digestive health, helping you live comfortably and confidently.",
+        path: "/programs/444"
+    },
+    {
+        id: 14,
+        icon: <SiOpenaigym/>,
+        image: require('../src/images/shutterstock_1227105112-e1565797576553.jpg'),
+        title: "NEUROLOGIST",
+        info: "Expert care for your brain and nervous system, ensuring better neurological health and well-being.",
+        path: "/programs/444"
+    },
+    {
+        id: 15,
+        icon: <SiOpenaigym/>,
+        image: require('../src/images/general-physician.png'),
+        title: "GENERAL PHYSICIAN",
+        info: "Comprehensive care for your overall health with expert diagnosis and treatment for a healthier life.",
+        path: "/programs/444"
+    },
+    {
+        id: 16,
+        icon: <SiOpenaigym/>,
+        image: require('../src/images/Dietitian-PNG-HD.png'),
+        title: "DIETICIAN",
+        info: "Achieve a healthier you with personalized diet plans and expert guidance for a balanced lifestyle.",
+        path: "/programs/444"
+    },
 ]
+
 
 export const values = [
     {
